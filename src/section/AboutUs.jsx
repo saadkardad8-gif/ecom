@@ -29,6 +29,10 @@ return(
                 ))
                 }
             </div>
+
+        </div>
+        <div>
+                        
             <h1>Nos meilleures marques </h1>
             <div className={style.grid}>
                 {

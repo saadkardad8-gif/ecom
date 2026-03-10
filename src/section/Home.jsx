@@ -28,7 +28,10 @@ export default function Home() {
               ))
             }
           </div>
-           <h1>Nos meilleures marques </h1>
+
+        </div>
+        <div>
+                     <h1>Nos meilleures marques </h1>
           <div className={style.grid}>
             {
               families.slice(0, 3).map((fam) => (
